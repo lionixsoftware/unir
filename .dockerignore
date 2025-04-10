@@ -1,0 +1,21 @@
+# Entorno virtual
+env/
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración personal
+*.db
+.DS_Store
+.vscode/
+.idea/
+*.env
+
+# Git y otros
+.git
+.gitignore
+
